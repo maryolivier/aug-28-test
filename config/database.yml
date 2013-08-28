@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: aug-28-test
+  username: postgres
+  password: postgres
+  encoding: unicode
